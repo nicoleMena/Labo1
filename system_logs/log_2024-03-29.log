@@ -1,0 +1,100 @@
+2024-03-29 21:00:00 INFO [monitoreo] Acceso autorizado al recurso
+2024-03-29 19:00:00 INFO [aplicacion] Movimiento detectado en el sistema
+2024-03-29 17:00:00 INFO [monitoreo] Monitoreo regular del sistema
+2024-03-29 13:00:00 INFO [base_de_datos] Operacion completada con exito
+2024-03-29 23:00:00 INFO [monitoreo] Monitoreo regular del sistema
+2024-03-29 21:00:00 INFO [servidor_web] Acceso autorizado al recurso
+2024-03-29 20:00:00 INFO [aplicacion] Operacion completada con exito
+2024-03-29 13:00:00 ERROR [proceso_batch] Error de conexion - Las credenciales de acceso son incorrectas
+2024-03-29 20:00:00 INFO [servidor_web] Monitoreo regular del sistema
+2024-03-29 20:00:00 INFO [base_de_datos] Monitoreo regular del sistema
+2024-03-29 19:00:00 INFO [servidor_web] Movimiento detectado en el sistema
+2024-03-29 23:00:00 INFO [base_de_datos] Monitoreo regular del sistema
+2024-03-29 19:00:00 INFO [monitoreo] Operacion completada con exito
+2024-03-29 13:00:00 INFO [monitoreo] Monitoreo regular del sistema
+2024-03-29 18:00:00 INFO [base_de_datos] Monitoreo regular del sistema
+2024-03-29 23:00:00 ERROR [monitoreo] Error de autenticacion - Las credenciales de acceso son incorrectas
+2024-03-29 14:00:00 INFO [proceso_batch] Acceso autorizado al recurso
+2024-03-29 17:00:00 ERROR [servidor_web] Error de autenticacion - Error al acceder al archivo de configuracion
+2024-03-29 21:00:00 INFO [aplicacion] Movimiento detectado en el sistema
+2024-03-29 13:00:00 INFO [proceso_batch] Movimiento detectado en el sistema
+2024-03-29 14:00:00 ERROR [servidor_web] Error de autenticacion - Las credenciales de acceso son incorrectas
+2024-03-29 13:00:00 ERROR [aplicacion] Error de escritura en disco - Error al acceder al archivo de configuracion
+2024-03-29 12:00:00 INFO [servidor_web] Operacion completada con exito
+2024-03-29 18:00:00 INFO [proceso_batch] Operacion completada con exito
+2024-03-29 13:00:00 INFO [monitoreo] Operacion completada con exito
+2024-03-29 17:00:00 INFO [servidor_web] Movimiento detectado en el sistema
+2024-03-29 19:00:00 INFO [proceso_batch] Movimiento detectado en el sistema
+2024-03-29 13:00:00 INFO [monitoreo] Acceso autorizado al recurso
+2024-03-29 15:00:00 INFO [aplicacion] Movimiento detectado en el sistema
+2024-03-29 17:00:00 INFO [monitoreo] Movimiento detectado en el sistema
+2024-03-29 23:00:00 INFO [aplicacion] Acceso autorizado al recurso
+2024-03-29 14:00:00 INFO [servidor_web] Acceso autorizado al recurso
+2024-03-29 20:00:00 INFO [monitoreo] Movimiento detectado en el sistema
+2024-03-29 21:00:00 INFO [monitoreo] Acceso autorizado al recurso
+2024-03-29 19:00:00 INFO [monitoreo] Operacion completada con exito
+2024-03-29 20:00:00 INFO [base_de_datos] Acceso autorizado al recurso
+2024-03-29 22:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 16:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 12:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 23:00:00 INFO [base_de_datos] Monitoreo regular del sistema
+2024-03-29 12:00:00 INFO [monitoreo] Acceso autorizado al recurso
+2024-03-29 17:00:00 INFO [servidor_web] Acceso autorizado al recurso
+2024-03-29 14:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 13:00:00 INFO [proceso_batch] Operacion completada con exito
+2024-03-29 17:00:00 INFO [servidor_web] Monitoreo regular del sistema
+2024-03-29 23:00:00 INFO [base_de_datos] Movimiento detectado en el sistema
+2024-03-29 23:00:00 INFO [base_de_datos] Acceso autorizado al recurso
+2024-03-29 16:00:00 ERROR [base_de_datos] Error de escritura en disco - Error al acceder al archivo de configuracion
+2024-03-29 20:00:00 INFO [monitoreo] Acceso autorizado al recurso
+2024-03-29 12:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 21:00:00 INFO [base_de_datos] Monitoreo regular del sistema
+2024-03-29 20:00:00 INFO [aplicacion] Monitoreo regular del sistema
+2024-03-29 19:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 13:00:00 ERROR [monitoreo] Error de autenticacion - Error al acceder al archivo de configuracion
+2024-03-29 18:00:00 INFO [base_de_datos] Operacion completada con exito
+2024-03-29 14:00:00 INFO [base_de_datos] Acceso autorizado al recurso
+2024-03-29 22:00:00 ERROR [proceso_batch] Error de escritura en disco - El servidor no pudo establecer conexion con la base de datos
+2024-03-29 22:00:00 INFO [proceso_batch] Acceso autorizado al recurso
+2024-03-29 15:00:00 INFO [servidor_web] Monitoreo regular del sistema
+2024-03-29 16:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 22:00:00 INFO [servidor_web] Movimiento detectado en el sistema
+2024-03-29 20:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 13:00:00 ERROR [base_de_datos] Error de escritura en disco - Las credenciales de acceso son incorrectas
+2024-03-29 18:00:00 ERROR [base_de_datos] Error de lectura de archivo - Espacio de almacenamiento insuficiente en disco
+2024-03-29 21:00:00 INFO [monitoreo] Operacion completada con exito
+2024-03-29 23:00:00 INFO [monitoreo] Operacion completada con exito
+2024-03-29 12:00:00 INFO [monitoreo] Monitoreo regular del sistema
+2024-03-29 23:00:00 INFO [base_de_datos] Acceso autorizado al recurso
+2024-03-29 15:00:00 INFO [servidor_web] Acceso autorizado al recurso
+2024-03-29 18:00:00 INFO [proceso_batch] Movimiento detectado en el sistema
+2024-03-29 14:00:00 INFO [proceso_batch] Operacion completada con exito
+2024-03-29 15:00:00 INFO [base_de_datos] Monitoreo regular del sistema
+2024-03-29 23:00:00 INFO [monitoreo] Operacion completada con exito
+2024-03-29 14:00:00 INFO [base_de_datos] Movimiento detectado en el sistema
+2024-03-29 20:00:00 INFO [proceso_batch] Movimiento detectado en el sistema
+2024-03-29 19:00:00 INFO [monitoreo] Operacion completada con exito
+2024-03-29 15:00:00 INFO [proceso_batch] Acceso autorizado al recurso
+2024-03-29 18:00:00 ERROR [proceso_batch] Error de conexion - Error al acceder al archivo de configuracion
+2024-03-29 21:00:00 INFO [aplicacion] Monitoreo regular del sistema
+2024-03-29 22:00:00 INFO [aplicacion] Operacion completada con exito
+2024-03-29 15:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 19:00:00 INFO [proceso_batch] Acceso autorizado al recurso
+2024-03-29 22:00:00 INFO [monitoreo] Monitoreo regular del sistema
+2024-03-29 20:00:00 INFO [aplicacion] Acceso autorizado al recurso
+2024-03-29 22:00:00 ERROR [servidor_web] Error de autenticacion - Error al acceder al archivo de configuracion
+2024-03-29 13:00:00 ERROR [proceso_batch] Error de lectura de archivo - El servidor no pudo establecer conexion con la base de datos
+2024-03-29 18:00:00 ERROR [servidor_web] Error de lectura de archivo - Espacio de almacenamiento insuficiente en disco
+2024-03-29 16:00:00 INFO [servidor_web] Operacion completada con exito
+2024-03-29 17:00:00 ERROR [base_de_datos] Error de lectura de archivo - Error al acceder al archivo de configuracion
+2024-03-29 21:00:00 INFO [base_de_datos] Movimiento detectado en el sistema
+2024-03-29 12:00:00 INFO [proceso_batch] Operacion completada con exito
+2024-03-29 19:00:00 INFO [aplicacion] Operacion completada con exito
+2024-03-29 14:00:00 INFO [base_de_datos] Movimiento detectado en el sistema
+2024-03-29 18:00:00 INFO [proceso_batch] Operacion completada con exito
+2024-03-29 14:00:00 INFO [aplicacion] Monitoreo regular del sistema
+2024-03-29 20:00:00 INFO [proceso_batch] Monitoreo regular del sistema
+2024-03-29 16:00:00 INFO [aplicacion] Operacion completada con exito
+2024-03-29 21:00:00 INFO [servidor_web] Monitoreo regular del sistema
+2024-03-29 14:00:00 INFO [monitoreo] Operacion completada con exito
+2024-03-29 20:00:00 INFO [proceso_batch] Movimiento detectado en el sistema
