@@ -1,0 +1,11 @@
+[Unit]
+Description=Servicio de Monitoreo de Cambios en Directorios
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/andreina/Desktop/labo_2/ejercicio1/scripting_servicios.sh
+WorkingDirectory=/home/andreina/Desktop/labo_2/ejercicio1
+
+[Install]
+WantedBy=multi-user.target
